@@ -1,0 +1,15 @@
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\Zadacha34.csproj.AssemblyReference.cache
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\Zadacha34.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\Zadacha34.AssemblyInfoInputs.cache
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\Zadacha34.AssemblyInfo.cs
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\Zadacha34.csproj.CoreCompileInputs.cache
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\bin\Debug\net7.0\Zadacha34.exe
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\bin\Debug\net7.0\Zadacha34.deps.json
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\bin\Debug\net7.0\Zadacha34.runtimeconfig.json
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\bin\Debug\net7.0\Zadacha34.dll
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\bin\Debug\net7.0\Zadacha34.pdb
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\Zadacha34.dll
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\refint\Zadacha34.dll
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\Zadacha34.pdb
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\Zadacha34.genruntimeconfig.cache
+D:\учеба\Geekbrains4242\dzSeminar5\Zadacha34\obj\Debug\net7.0\ref\Zadacha34.dll
